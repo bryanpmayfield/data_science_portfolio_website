@@ -20,7 +20,7 @@ about:
       href: mailto:bryan@bryanpmayfield.com
 ---
 
-### Data Scientist \| Medical Writer \| Board Certified Geriatric Pharmacist
+#### Data Scientist \| Medical Writer \| Board Certified Geriatric Pharmacist
 
 <br/>
 

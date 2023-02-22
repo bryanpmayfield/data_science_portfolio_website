@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: b34febd4-92b1-4eab-9fcb-f699fffd852d
+      url: 'https://quartopub.com/sites/bryanpmayfield/portfolio'

@@ -1,0 +1,29 @@
+---
+title: "Bryan P. Mayfield, PharmD, BCGP"
+image: images/Bryan_Mayfield.jpg
+about: 
+  template: jolla
+  image-width: 10cm
+  image-shape: round
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bryanmayfield/
+    - icon: github
+      text: GitHub
+      href: https://github.com/bryanpmayfield/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/BryanPMayfield
+    - icon: envelope
+      text: Contact Me 
+      href: mailto:bryan@bryanpmayfield.com
+---
+
+### Data Scientist \| Medical Writer \| Board Certified Geriatric Pharmacist
+
+<br/>
+
+I currently work as a Research Data Scientist at Precision Analytical where I work on interesting things around menopause, hormones, and aging.
+
+My passion lies at the intersection of data, scientific communication, geriatrics, health disparities, pharmacoeconomics, and health outcomes research.

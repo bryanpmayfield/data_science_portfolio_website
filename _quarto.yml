@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Bryan P. Mayfield"
+  page-footer: 
+    center: |
+      [Contact Me](mailto:bryan@bryanpmayfield.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+    right:
+      #- about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bryanmayfield/
+      - icon: github
+        href: https://github.com/bryanpmayfield/
+      - icon: twitter
+        href: https://twitter.com/BryanPMayfield
+      - icon: envelope
+        href: mailto:bryan@bryanpmayfield.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

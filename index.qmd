@@ -24,6 +24,6 @@ about:
 
 <br/>
 
-I am currently a Research Data Scientist at Precision Analytical where I work on interesting things centered around menopause, hormones, and aging.
+I am currently a Research Data Scientist at Precision Analytical where I work on interesting things centered around aging, hormones, and menopause.
 
-My passion lies at the intersection of data science, scientific communication, geriatrics, health disparities, pharmacoeconomics, pharmacoepidemiology, and health outcomes research.
+My passion lies at the intersection of data science, scientific communication, geriatrics, health disparities, pharmacoeconomics, pharmacoepidemiology, and health outcomes research (it's a lot, I know! I just have a lot of interests!).
